@@ -5,7 +5,7 @@ This is an implementation of the work published in Fine-Grained Segmentation Net
 The datasets used in the paper is published at visuallocalization.net
 
 ## Trained Models
-https://drive.google.com/open?id=14joxT0XFreW1WX3M8oTiCV69hZTiJTMV
+https://drive.google.com/drive/folders/1ks_HDb3ipNlJsNiTbLNSvqSIZ8Is8xCk
 
 ## Installation
 A Dockerfile is provided, either build a docker image using this or refer to the requirements listed in the file.
