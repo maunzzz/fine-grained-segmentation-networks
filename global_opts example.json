@@ -1,0 +1,12 @@
+{
+    "result_path": "/media/user/disk/Models/fgsn",
+    "cityscapes_path": "/media/user/disk/Data/cityscapes",
+    "vistas_path": "/media/user/disk/Data/mapillary-vistas-dataset_public_v1.0",
+    "wildash_root_path": "/media/user/disk/Data/wilddash",
+    "robotcar_root_path": "/media/user/cvpr2019-cross-season-correspondence/cross-season-correspondence-datasets-public-version/ROBOTCAR",
+    "robotcar_corr_path": "/media/user/cvpr2019-cross-season-correspondence/cross-season-correspondence-datasets-public-version/ROBOTCAR/correspondence_data",
+    "robotcar_im_path": "/media/user/cvpr2019-cross-season-correspondence/cross-season-correspondence-datasets-public-version/ROBOTCAR/images",
+    "cmu_root_path": "/media/user/cvpr2019-cross-season-correspondence/cross-season-correspondence-datasets-public-version/CMU",
+    "cmu_corr_path": "/media/user/cvpr2019-cross-season-correspondence/cross-season-correspondence-datasets-public-version/CMU/correspondence_data",
+    "cmu_im_path": "/media/user/cvpr2019-cross-season-correspondence/cross-season-correspondence-datasets-public-version/CMU/images"
+}

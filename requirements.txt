@@ -1,0 +1,9 @@
+torch==1.1.0
+torchvision==0.3.0
+h5py==2.8.0
+h5py-cache==1.0
+tensorboardX==1.8
+scikit-image==0.15.0
+faiss==1.5.3
+progress==1.5
+plyfile==0.7

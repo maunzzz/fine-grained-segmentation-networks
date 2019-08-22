@@ -1,0 +1,11 @@
+/ckpt
+/.env
+/global_opts.json
+*.pyc
+.vscode
+*.jpg
+*.png
+*.pth
+*.h5
+screenlog.*
+/faiss
