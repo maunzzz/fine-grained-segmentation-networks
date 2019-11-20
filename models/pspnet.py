@@ -191,7 +191,7 @@ class PSPNetClustering(nn.Module):
                 aux = self.conv6_1(aux_feat)
                 h_feat = self.conv6relu(h_feat)
                 h = self.conv6(h_feat)
-                return aux, h
+                return h, aux
         else:
             if self.output_all:
                 h = self.conv6relu(h_feat)
