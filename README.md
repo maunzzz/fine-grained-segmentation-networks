@@ -14,7 +14,7 @@ In addition, a requirements.txt is provided.
 ## Usage 
 - Download Cityscapes and Mapillary Vistas
 - Use /utils/convert_vistas_to_cityscapes.py to create cityscapes class annotations for the Vistas images
-- Download the correspondence datasets
+- Download the correspondence datasets, https://www.visuallocalization.net/datasets/
 - Download the images associated with the correspondence datasets (instructions available in dataset readme)
 - Create a global_otps.json and set the paths (see global_opts_example.json)
 - Get base models from the trained models link above, place the 'base-networks' folder in global_opts['result-folder']
